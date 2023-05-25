@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastGetCallHistory</string>
+    <string name="get_call">Get call history</string>
+</resources>
